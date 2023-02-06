@@ -1,0 +1,2 @@
+T1:second.py
+   gcc -o T1 second.py
